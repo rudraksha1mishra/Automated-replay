@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/rudraksha1mishra/Automated-replay/issues"
   },
-  "homepage": "https://github.com/rudraksha1mishra/Automated-replay#readme"
+  "homepage": "https://github.com/rudraksha1mishra/Automated-replay#readme",
+  "dependencies": {
+    "googleapis": "^140.0.1",
+    "nodemailer": "^6.9.14"
+  }
 }
